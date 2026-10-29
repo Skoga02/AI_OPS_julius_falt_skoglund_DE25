@@ -1,0 +1,11 @@
+name,age,salary,role,description
+Anna Svensson,34,42000,Systemutvecklare,Utvecklar och underhåller webbapplikationer för företagets kunder. Arbetar i ett agilt team med fokus på kodkvalitet och leverans.
+Erik Johansson,29,38000,IT-support,"Hjälper kollegor med datorproblem, programvara och nätverksanslutningar. Ansvarar även för att dokumentera vanliga fel och lösningar."
+Maria Gomez,41,52000,Säkerhetsanalytiker,Övervakar företagets IT-säkerhet och utreder potentiella intrång. Implementerar skyddsåtgärder och utbildar personal i säkerhetsmedvetenhet.
+Lars Nilsson,55,57000,UX-designer,Skapar användarvänliga gränssnitt för digitala produkter och tjänster. Genomför användartester och omarbetar design utifrån feedback.
+Sofia Karlsson,26,35000,Dataanalytiker,Samlar in och analyserar affärsdata för att stödja beslutsfattande. Bygger rapporter och dashboards som ger insikter om verksamheten.
+Petra Lindberg,38,45000,HR-assistent,"Hanterar anställningsavtal, sjukanmälningar och personalregistret. Stödjer cheferna med rekrytering och introduktion av nya medarbetare."
+David Bergman,50,58000,HR-chef,"Ansvarar för hela HR-funktionen och personalstrategin. Driver lönerevisioner, arbetsmiljöarbete och kompetensutveckling i organisationen."
+Amina Hassan,31,40000,Rekryterare,Hittar och intervjuar kandidater till lediga tjänster inom företaget. Ansvarar för hela rekryteringsprocessen från annons till anställning.
+Johan Eriksson,44,47000,Marknadsföringsansvarig,Planerar och genomför marknadsföringskampanjer för att öka varumärkeskännedom. Samarbetar med sälj och externa byråer för att nå målgruppen.
+Lea Schmidt,23,32000,Social media specialist,Skapar och publicerar innehåll på företagets sociala plattformar. Analyserar engagemang och optimerar inlägg för bättre räckvidd.
