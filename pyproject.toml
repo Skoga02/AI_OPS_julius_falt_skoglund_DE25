@@ -11,6 +11,7 @@ dependencies = [
     "iprogress>=0.4",
     "ipykernel>=7.4.0",
     "lancedb>=0.41.0",
+    "logfire[system-metrics,variables]>=5.4.0",
     "matplotlib>=3.11.2",
     "pandas>=3.1.0",
     "pathlib>=1.0.1",
