@@ -14,7 +14,7 @@ from model import nvidia_model
 import asyncio
 
 # 2 types of evals
-#  - determenistic (almost the same as normal pytest, specific rules)
+# - determenistic (almost the same as normal pytest, specific rules)
 # - llm judge
 
 model = nvidia_model()
